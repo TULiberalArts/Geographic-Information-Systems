@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-This certificate is open to students in all majors across all colleges and schools at Temple University.
+This certificate is open to students in all majors across all colleges and schools at Temple University. To declare the GIS Certificate, visit the CLA Academic Advising and Professional Development Center in Paley Library, 1st Floor. No appointment needed.
 
 Questions? Visit Julia Falcon in 338A Gladfelter Hall or email [guses@temple.edu](mailto:guses@temple.edu).
 
