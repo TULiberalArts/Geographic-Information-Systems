@@ -16,7 +16,7 @@ Melissa Gilbert<br/>
 
 Lee Hachadoorian<br/>
 334 Gladfelter Hall<br/>
-[(215) 204-3331](tel:2152043331)<br/> 
+[(215) 204-3331](tel:2152043331)<br/>
 [Lee.Hachadoorian@temple.edu](mailto:khenry1@temple.edu )<br/> 
 
 **Graduate Chair:**
