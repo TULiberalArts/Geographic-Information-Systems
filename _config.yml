@@ -8,7 +8,7 @@ baseurl: /geographic-information-systems
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 
+description: 'Training in GIS will give you the skills you need to take on advanced research positions in technology-based companies, governmental agencies, and non-profit organizations.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,8 +18,8 @@ address:
   room: 3rd Floor, Room 308
   street: 1114 Polett Walk
   city: Philadelphia, PA 19122
-  email: geographic-information-systems@temple.edu
-  phone: 2152043386
+  email: <a href="mailto:geographic-information-systems@temple.edu">geographic-information-systems@temple.edu</a>
+  phone: 215-204-3386
 
 # Social Media
 # Put in only the username unless otherwise noted
