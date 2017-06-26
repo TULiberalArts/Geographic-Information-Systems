@@ -27,9 +27,9 @@ sidebar-content: >
   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)<br/>
 ---
 
-## Undergraduate Certificate in Geographic Information Systems
+## Certificate in GIS
 
-Geographic information has become one of the lynchpins of the Information Age. The [undergraduate certificate in GIS](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/) will give you the skills you need to take on advanced research positions in technology-based companies, governmental agencies, and non-profit organizations.
+Geographic information has become one of the lynchpins of the Information Age. The [undergraduate certificate in geographic information systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/) will give you the skills you need to take on advanced research positions in technology-based companies, governmental agencies, and non-profit organizations.
 
 ### What is Geographic Information Systems (GIS)?
 
