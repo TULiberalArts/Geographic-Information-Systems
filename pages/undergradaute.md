@@ -63,4 +63,3 @@ And two electives selected from the following:
 - GUS/ENST 4068: Census Analysis with GIS
 - GUS/ENST 4072: Advanced Remote Sensing
 - GUS/ENST 4073: Geovisualization
-
