@@ -31,10 +31,10 @@ GIS is anything that combines data with maps. Because it is so widely applicable
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
-        content=" " 
+        title="Stand Out on the Job Market" 
+        content="Our graduate offerings include both a professional science master's in GIS and a graduate certificate open to any student with a bachelor's degree." 
         image="" 
-        button-link=" " 
+        button-link="/graduate" 
         button-text="Learn More" %}
       </div>
 </div>
