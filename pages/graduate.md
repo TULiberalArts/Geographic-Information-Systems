@@ -53,22 +53,22 @@ Faculty expertise spans a diverse array of fields, including global urban develo
 
 Students interested in completing the certificate must take GUS 5062: Fundamentals of GIS or GUS 8067: Spatial Database Design and three from the list below:
 
-GUS 5061: Cartographic Production
-GUS 5063: Remote Sensing
-GUS 5065: Urban GIS
-GUS 5066: Environmental GIS
-GUS 5067: GIS and Location Analysis
-GUS 5068: Census Analysis and GIS
-GUS 5069: GIS for Health Data Analysis
-GUS 5072: Advanced Remote Sensing
-GUS 5073: Geovisualization
-GUS 5162: Advanced Statistics for Urban Applications
-GUS 8065: Cartographic Design
-GUS 8066: Application Development for GIS
-GUS 8067: Spatial Database Design
-GUS 8068: Web Mapping and Map Servers
-GUS 5000: Special Topics (one special topics elective with a focus on spatial analysis)
-Any course within the range of  GUS 5030-5040 or 8060-8070
-GUS 8067: Spatial Data Base Design is required if the equivalent to GUS 5062. Fundamentals of GIS has already been taken at any level or the student has equivalent industry experience. We work with students to determine if they should be waived from the GUS 5062 requirement.
+- GUS 5061: Cartographic Production
+- GUS 5063: Remote Sensing
+- GUS 5065: Urban GIS
+- GUS 5066: Environmental GIS
+- GUS 5067: GIS and Location Analysis
+- GUS 5068: Census Analysis and GIS
+- GUS 5069: GIS for Health Data Analysis
+- GUS 5072: Advanced Remote Sensing
+- GUS 5073: Geovisualization
+- GUS 5162: Advanced Statistics for Urban Applications
+- GUS 8065: Cartographic Design
+- GUS 8066: Application Development for GIS
+- GUS 8067: Spatial Database Design
+-GUS 8068: Web Mapping and Map Servers
+- GUS 5000: Special Topics (one special topics elective with a focus on spatial analysis)
+- Any course within the range of  GUS 5030-5040 or 8060-8070
+- GUS 8067: Spatial Data Base Design is required if the equivalent to GUS 5062. Fundamentals of GIS has already been taken at any level or the student has equivalent industry experience. We work with students to determine if they should be waived from the GUS 5062 requirement.
 
 For more information about the degree requirements, please visit the [graduate bulletin](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/) or see the [PSM and graduate certificate in GIS handbook](http://www.cla.temple.edu/gus/files/2014/10/Handbook-for-PSM-and-Certificate-in-GIS-2016-2017.pdf).
