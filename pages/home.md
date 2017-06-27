@@ -15,7 +15,7 @@ published: true
     title="Join a Growing Field" 
     content="Geospatial technology is considered a high-growth industry by the U.S. Department of Labor. Its uses are so pervasive in modern industry that the market is growing at an annual rate of almost 35 percent, with faster than average job growth expected over the next ten years." 
     image="" 
-    button-link="/next-stops#career-opportunities" 
+    button-link="/geographic-information-systems/next-stops#career-opportunities" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
@@ -23,7 +23,7 @@ published: true
       title="Complement Any Major" 
       content="Our undergraduate certificate can be added to any major in any college." 
       image="" 
-      button-link="/undergraduate" 
+      button-link="/geographic-information-systems/undergraduate" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
@@ -31,7 +31,7 @@ published: true
         title="Stand Out on the Job Market" 
         content="Our graduate offerings include both a professional science master's in GIS and a graduate certificate open to any student with a bachelor's degree." 
         image="" 
-        button-link="/graduate" 
+        button-link="/geographic-information-systems/graduate" 
         button-text="Learn More" %}
       </div>
 </div>
