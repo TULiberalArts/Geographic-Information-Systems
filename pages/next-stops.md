@@ -7,8 +7,6 @@ published: true
 ---
 ## Career Opportunities
 
-Geographic information has become one of the linchpins of the Information Age. Employers are seeking candidates trained in geospatial technologies. Geospatial technology is considered a high-growth industry by the U.S. Department of Labor. Its uses are so pervasive in modern industry that the market is growing at an annual rate of almost 35 percent, with faster than average job growth expected over the next ten years.
-
 Training in GIS will give you the skills you need to take on advanced research positions in technology-based companies, governmental agencies, and non-profit organizations. A variety of industries hire people with this important skill set, including public health, the environment, business, technology, city planning, education, design, criminal justice, sociology, communications, journalism and engineering.
 
 ## Make Your Declaration
