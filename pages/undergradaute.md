@@ -33,7 +33,7 @@ Our [undergraduate certificate in geographic information systems](http://bulleti
 
 ### What is Geographic Information Systems (GIS)?
 
-GIS is anything that combines data with maps. Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Geospatial technology is considered a high-growth industry by the U.S. Department of Labor and employers are seeking candidates trained in geospatial technologies. Its uses are so pervasive in modern industry that the market is growing at an annual rate of almost 35 percent, with faster than average job growth expected over the next ten years.
+GIS is anything that combines data with maps. Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers are seeking candidates trained in geospatial technologies. Geospatial technology is considered a high-growth industry by the U.S. Department of Labor. Its uses are so pervasive in modern industry that the market is growing at an annual rate of almost 35 percent, with faster than average job growth expected over the next ten years.
 
 ### How to Add the GIS Certificate
 
