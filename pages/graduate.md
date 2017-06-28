@@ -31,6 +31,7 @@ sidebar-content: >
   204-3386](tel:2152043386)<br/>
   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)<br/>
 ---
+Our graduate offerings include a professional science master's in geographic information systems and a graduate certificate. 
 
 ## Academic Offerings
 
