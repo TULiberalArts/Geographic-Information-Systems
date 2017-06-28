@@ -31,10 +31,6 @@ sidebar-content: >
 
 Our [undergraduate certificate in geographic information systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/) will give you the skills you need to take on advanced research positions in technology-based companies, governmental agencies, and non-profit organizations.
 
-### What is Geographic Information Systems (GIS)?
-
-GIS is anything that combines data with maps. Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers are seeking candidates trained in geospatial technologies. Geospatial technology is considered a high-growth industry by the U.S. Department of Labor. Its uses are so pervasive in modern industry that the market is growing at an annual rate of almost 35 percent, with faster than average job growth expected over the next ten years.
-
 ### How to Add the GIS Certificate
 
 This certificate is open to students in all majors across all colleges and schools at Temple University. To declare the GIS Certificate, visit the CLA Academic Advising and Professional Development Center in Paley Library, 1st Floor. No appointment needed.
