@@ -5,6 +5,8 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
+Our graduates go on to succeed in a range of careers in growing fields. Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
+
 ## Career Opportunities
 
 Training in GIS will give you the skills you need to take on advanced research positions in technology-based companies, governmental agencies, and non-profit organizations. A variety of industries hire people with this important skill set, including public health, the environment, business, technology, city planning, education, design, criminal justice, sociology, communications, journalism and engineering.
