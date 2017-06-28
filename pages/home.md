@@ -4,9 +4,13 @@ meta-description: 100 or so words
 meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
-feature: false
-feature-title: null
-feature-body: null
+feature: true
+feature-title: Map Your Career
+feature-body: >-
+  Geographic information systems is a widely applicable skill, combining data
+  with       maps to reveal a new way to study our world. Adding our
+  undergraduate or graduate     GIS certificate will make you stand out to
+  employers in a range of fields.
 feature-image: null
 published: true
 ---
