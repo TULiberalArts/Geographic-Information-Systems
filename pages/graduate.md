@@ -5,32 +5,37 @@ permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: >
-  ### Contact Us
+sidebar-content: > #
+  **Chair:**  
+   Melissa Gilbert  
+   309 Gladfelter Hall  
+   [(215) 204-5482](tel:2152045482)  
+   [mgilbert@temple.edu](mailto:mgilbert@temple.edu)  
+   
+   ___
+   
+   **Director:**  
+   Lee Hachadoorian  
+   334 Gladfelter Hall    
+   [(215)204-3331](tel:2152043331)
+   [Lee.Hachadoorian@temple.edu](mailto:Lee.Hachadoorian@temple.edu)  
+   
+   ___
+   
+   **Graduate Chair:**  
+   Kevin A. Henry  
+   313B Gladfelter Hall    
+   [khenry1@temple.edu](mailto:khenry1@temple.edu)  
+   
+   ___
 
-  <hr>
-
-  **Chair:** <br/> Melissa Gilbert<br/> 309 Gladfelter Hall<br/> [(215)
-  204-5482](tel:2152045482)<br/>
-  [mgilbert@temple.edu](mailto:mgilbert@temple.edu)<br/>
-
-   <hr>
-
-  **Director:** <br/> Lee Hachadoorian<br/> 334 Gladfelter Hall<br/> [(215)
-  204-3331](tel:2152043331)<br/>
-  [Lee.Hachadoorian@temple.edu](mailto:khenry1@temple.edu )<br/> 
-
-  <hr>
-
-  **Graduate Chair:** Kevin A. Henry<br/> 313B Gladfelter Hall<br/>
-  [khenry1@temple.edu](mailto:khenry1@temple.edu)<br/>
-
-  <hr>
-
-  **Coordinator:** <br/> Julia Falcon<br/> 338A Gladfelter Hall<br/> [(215)
-  204-3386](tel:2152043386)<br/>
-  [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)<br/>
+   **Coordinator:**  
+   Julia Falcon  
+   338A Gladfelter Hall    
+   [(215) 204-3386](tel:2152043386)   
+   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)  
 ---
+
 Our graduate offerings include a professional science master's in geographic information systems and a graduate certificate. 
 
 ## Academic Offerings
