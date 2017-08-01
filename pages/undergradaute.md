@@ -5,7 +5,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Melissa Gilbert  
    309 Gladfelter Hall  
@@ -26,7 +26,7 @@ sidebar-content: > #
    Julia Falcon  
    338A Gladfelter Hall    
    [(215) 204-3386](tel:2152043386)   
-   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)  
+   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
 
 ## Certificate in GIS
@@ -38,6 +38,8 @@ Our [undergraduate certificate in geographic information systems](http://bulleti
 This certificate is open to students in all majors across all colleges and schools at Temple University. To declare the GIS Certificate, visit the CLA Academic Advising and Professional Development Center in Paley Library, 1st Floor. No appointment needed.
 
 Questions? Visit Julia Falcon in 338A Gladfelter Hall or email [guses@temple.edu](mailto:guses@temple.edu).
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
 
 ### Certificate Requirements
 
