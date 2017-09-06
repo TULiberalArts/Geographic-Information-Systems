@@ -11,7 +11,7 @@ feature-body: >-
   with maps to reveal a new way to study our world. Adding our undergraduate or
   graduate GIS certificate will make you appealing to employers in a range of
   fields.
-feature-image: null
+feature-image: hero_GIS_bg.png
 published: true
 ---
 ## What is Geographic Information Systems (GIS)?
