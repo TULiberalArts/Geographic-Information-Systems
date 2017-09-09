@@ -40,6 +40,8 @@ Our graduate offerings include a professional science master's in geographic inf
 
 ## Academic Offerings
 
+- [PhD in Geography and Urban Studies](#phd-in-geography-and-urban-studies)
+- [MA in Geography and Urban Studies](#ma-in-geography-and-urban-studies)
 - [Professional Science Master’s in Geographic Information Systems](#psm-in-gis) (PSM in GIS)
 - [Graduate Certificate in Geographic Information Systems](#graduate-certificate-in-gis) (GIS)
 
