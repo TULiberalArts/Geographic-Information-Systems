@@ -5,7 +5,6 @@ permalink: /resources/
 layout: page
 published: true
 ---
-[PSM program_logo_1-300x165.jpg]({{site.baseurl}}/media/PSM program_logo_1-300x165.jpg)
 
 ## Professional Science Master’s (PSM) Affiliation!
 
@@ -18,4 +17,3 @@ The [professional science master’s degree (PSM)](http://www.npsma.org/) is a p
 The GIS PSM will train a workforce that is highly competent to meet the challenges faced by public, regulated, and private sector industries and also adaptable to the future needs of the industries.  For many, the PSM degree provides access to a professional career requiring both technical skills and professional development training in areas related to business, policy and ethics.  As time goes on, the program will continue to define and refine its focus, enabling students to match their specialized training with substantive fields that utilize such training such as urban and regional planning, criminology, national security, epidemiology, and natural and environmental sciences.
 
 The 30-credit degree program will follow a year-long model for full-time students to provide an intensive experience for student-professionals seeking to re-enter the workforce quickly. Students are also able to complete the program part-time to ensure that working professionals are able to take advantage of this new degree program. The electives allow students to specialize within their own respective areas of interest. The Capstone course will provide students with a research project or industry experience, depending on their primary interests. All courses will emphasize practical skills such as scientific writing, verbal communication, and presentation skills, as well as critical thinking.
-
