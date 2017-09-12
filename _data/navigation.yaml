@@ -6,7 +6,9 @@
   url: /faculty/
 - text: Research
   url: /research/
+- text: Resources
+  url: /resources/
 - text: Next Stops
-  url : /next-stops/
+  url: /next-stops/
 - text: Advisory Board
   url: /advisory-board/
