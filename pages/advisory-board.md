@@ -2,6 +2,8 @@
 title: Advisory Board
 permalink: /advisory-board/
 layout: page
+keywords: ''
+description: >- 
 published: true
 ---
 ## Meet the Advisory Board
