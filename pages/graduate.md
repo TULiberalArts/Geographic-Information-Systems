@@ -52,7 +52,7 @@ Our [professional science master’s in geographic information systems](http://b
 
 Among the top 10 most employable skills of 2017 according to LinkedIn, our curriculum integrates data presentation, mobile development and statistical analysis and data mining. We prepare students for the demands of the job market, integrating advanced technical training with business ethics and professional development. Core coursework includes spatial database design, application development, technical cartography, advanced statistics, and ethics and professional practice, culminating in a hands-on capstone experience. The program trains competitive, skilled GIS technicians and prepares students to sit for the GISP certification exam. We are affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field to ensure that our program is teaching the skills that employers are seeking.
 
-For more information about the degree requirements, please visit the [graduate bulletin](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/) or see the [PSM and graduate certificate in GIS handbook](http://www.cla.temple.edu/gus/files/2014/10/Handbook-for-PSM-and-Certificate-in-GIS-2016-2017.pdf).
+For more information about the degree requirements, please visit the [graduate bulletin](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/) or see the [PSM and graduate certificate in GIS handbook](https://liberalarts.temple.edu/sites/liberalarts/files/17-18-PSM-in-GIS-Handbook.pdf).
 
 ## Graduate Certificate in GIS
 
