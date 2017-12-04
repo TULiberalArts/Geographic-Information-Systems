@@ -2,8 +2,6 @@
 title: Graduate
 permalink: /graduate/
 layout: page
-keywords: ''
-description: >-
 published: true
 sidebar: true
 sidebar-content: |
@@ -80,4 +78,6 @@ Students interested in completing the certificate must take GUS 5062: Fundamenta
 - Any course within the range of  GUS 5030-5040 or 8060-8070
 - GUS 8067: Spatial Data Base Design is required if the equivalent to GUS 5062. Fundamentals of GIS has already been taken at any level or the student has equivalent industry experience. We work with students to determine if they should be waived from the GUS 5062 requirement.
 
-For more information about the degree requirements, please visit the [graduate bulletin](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/) or see the [PSM and graduate certificate in GIS handbook](http://www.cla.temple.edu/gus/files/2014/10/Handbook-for-PSM-and-Certificate-in-GIS-2016-2017.pdf).
+## Admissions Process: 
+
+Please visit the Geographic and Information Sysytems Admissions page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. You can also view the [PSM and Graduate Certificate in GIS Handbook](http://www.cla.temple.edu/gus/files/2014/10/Handbook-for-PSM-and-Certificate-in-GIS-2016-2017.pdf).
