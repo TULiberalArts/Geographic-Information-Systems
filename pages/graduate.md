@@ -80,4 +80,4 @@ Students interested in completing the certificate must take GUS 5062: Fundamenta
 
 ## Admissions Process: 
 
-Please visit the Geographic and Information Sysytems Admissions page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. You can also view the [PSM and Graduate Certificate in GIS Handbook](http://www.cla.temple.edu/gus/files/2014/10/Handbook-for-PSM-and-Certificate-in-GIS-2016-2017.pdf).
+Please visit the [Geographic and Information Sysytems Admissions page](https://liberalarts.temple.edu/admissions/graduate/geographic-information-systems) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. You can also view the [PSM and Graduate Certificate in GIS Handbook](http://www.cla.temple.edu/gus/files/2014/10/Handbook-for-PSM-and-Certificate-in-GIS-2016-2017.pdf).
