@@ -18,6 +18,17 @@ published: true
 
 GIS is anything that combines data with maps. Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers are seeking candidates trained in geospatial technologies. Geospatial technology is considered a high-growth industry by the U.S. Department of Labor. Its uses are so pervasive in modern industry that the market is growing at an annual rate of almost 35 percent, with faster than average job growth expected over the next 10 years.
 
+## Academic Offerings
+- [Major in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
+- [Minor in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
+- [Major in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
+- [Minor in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
+- [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
+- [MA in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
+- [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
+- [Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
+- [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="Join a Growing Field" 
