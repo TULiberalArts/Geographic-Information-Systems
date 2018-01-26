@@ -49,7 +49,7 @@ Among the top 10 most employable skills of 2017 according to LinkedIn, our curri
 ## Graduate Certificate in GIS
 Our 12-credit Graduate Certificate in GIS is open to all students who have completed an undergraduate degree — including current Temple graduate students and those not currently enrolled in a graduate program. Faculty expertise spans a diverse array of fields, including global urban development, urban ecology and sustainability, health geography and food systems, critical approaches to nature-society relations, and theory and implementation of geographic information technologies.
 
-[Learn More About the Graduate Certificate in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
+[Learn More About the Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 ## Admissions Process: 
 Please visit the [Geographic and Information Sysytems Admissions page](https://liberalarts.temple.edu/admissions/graduate/geographic-information-systems) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. You can also view the [PSM and Graduate Certificate in GIS Handbook](http://www.cla.temple.edu/gus/files/2014/10/Handbook-for-PSM-and-Certificate-in-GIS-2016-2017.pdf).
