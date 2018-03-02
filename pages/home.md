@@ -31,7 +31,7 @@ GIS is powerful analytical software that combines data with maps. It allows user
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="Join a Growing Field" 
-    content="Training in GIS will give you the skills you need to take on advanced research positions in technology-based companies, governmental agencies and non-profit organizations." 
+    content="In the Information Age, there is a growing need for job candidates that are able to manipulate large volumes of data. We are teaching skills that can be applied across industries, from tech companies to non-profits and governmental agencies." 
     image="" 
     button-link="/geographic-information-systems/next-stops#career-opportunities" 
     button-text="Learn More" %}
@@ -39,7 +39,7 @@ GIS is powerful analytical software that combines data with maps. It allows user
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title="Complement Any Major" 
-      content="Our undergraduate certificate can be added to any major in any school or college at Temple." 
+      content="Our undergraduate certificate can be added to any major in any school or college at Temple. We offer a range of electives, to help students pursue coursework that relates to their areas of interest." 
       image="" 
       button-link="/geographic-information-systems/undergraduate" 
       button-text="Learn More" %}
