@@ -8,41 +8,44 @@ published: true
 ---
 ## Meet the Advisory Board
 
-- Dana Bauer
-  _Geographer-at-large_, Planet Labs
+**Sarah Battersby**
+- Manager, Tableau Research
 
-- Andrew Buss
-  _Director of Innovation Management_, Office of Innovation and Technology, City of Philadelphia
- 
-- Robert Cheetham
-  _Founder and President_, Azavea
+**Dana Bauer**
+- Technical Team Lead, Developer Experience & Public APIs, Planet Labs
 
-- Adel Ebeid
-  _President, Innovation & Technology_, Green Diamond Solutions
+**Andrew Buss**
+- Deputy CIO for Innovation Management, Office of Innovation and Technology, City of Philadelphia
 
-- Grant Ervin
-  _Deputy Geographic Information Officer for Enterprise Services_, City of Philadelphia
+**Robert Cheetham**
+- President and CEO, Azavea
 
-- Lauren Gilchrist
-  _Vice President, Director of Research_, Jones Lang LaSalle
+**Grant Ervin**
+- Project Manager - GIT, Michael Baker International
 
-- Anthony Green
-  _Vice President_, Technology Commercialization Group, Life Sciences, Ben Franklin Technology Partners, Southeastern Pennsylvania
- 
-- Christopher Laing
-  _Vice President_, University City Science Center
- 
-- Noemi Mendez Eliasen
-  _Data Dissemination and Outreach Specialist_, U.S. Census Bureau, Philadelphia Region
- 
-- Christopher Pollard
-  _Senior GIS Specialist_, Delaware Valley Regional Planning Commission
+**Lauren Gilchrist**
+- Vice President, Director of Research, Jones Lang LaSalle
 
-- Michelle Schmitt
-  _Office_, The Philadelphia Program, The Pew Charitable Trusts
- 
-- Mark Wheeler
-  _Chief Geographic Information Officer_, City of Philadelphia
+**Noemi Mendez Eliasen**
+- Data Dissemination and Outreach Specialist, U.S. Census Bureau, Philadelphia Region
 
-- Paul Wright
-  _Co-Founder/Strategic Leader_, Open Access Philly
+**Mjumbe Poe**
+- Co-founder and CTO, FixList
+
+**Christopher Pollard**
+- Manager, Geospatial Application Development, Delaware Valley Regional Planning Commission
+
+**Rahul Rakshit**
+- Product Engineer, Esri
+
+**Michelle Schmitt**
+- Officer, The Philadelphia Program, The Pew Charitable Trusts
+
+**Michael Schuldt**
+- Director of Consulting Services, Pennoni
+
+**Mark Wheeler- GISP, AICP**
+- Deputy CIO for Enterprise Data and Architecture, Chief Geographic Information Officer, City of Philadelphia
+
+**Paul Wright**
+- Director, Vendor Management, LiftForward
