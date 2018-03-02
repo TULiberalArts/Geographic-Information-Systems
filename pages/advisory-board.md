@@ -9,43 +9,43 @@ published: true
 ## Meet the Advisory Board
 
 **Sarah Battersby**
-- Manager, Tableau Research
+- _Manager_ Tableau Research
 
 **Dana Bauer**
-- Technical Team Lead, Developer Experience & Public APIs, Planet Labs
+- _Technical Team Lead, Developer Experience & Public APIs_ Planet Labs
 
 **Andrew Buss**
-- Deputy CIO for Innovation Management, Office of Innovation and Technology, City of Philadelphia
+-_ Deputy CIO for Innovation Management_ Office of Innovation and Technology, City of Philadelphia
 
 **Robert Cheetham**
-- President and CEO, Azavea
+- _President and CEO_ Azavea
 
 **Grant Ervin**
-- Project Manager - GIT, Michael Baker International
+- _Project Manager - GIT_ Michael Baker International
 
 **Lauren Gilchrist**
-- Vice President, Director of Research, Jones Lang LaSalle
+- _Vice President, Director of Research_ Jones Lang LaSalle
 
 **Noemi Mendez Eliasen**
-- Data Dissemination and Outreach Specialist, U.S. Census Bureau, Philadelphia Region
+- _Data Dissemination and Outreach Specialist_ U.S. Census Bureau, Philadelphia Region
 
 **Mjumbe Poe**
-- Co-founder and CTO, FixList
+- _Co-founder and CTO_ FixList
 
 **Christopher Pollard**
-- Manager, Geospatial Application Development, Delaware Valley Regional Planning Commission
+- _Manager, Geospatial Application Development_ Delaware Valley Regional Planning Commission
 
 **Rahul Rakshit**
-- Product Engineer, Esri
+- _Product Engineer_ Esri
 
 **Michelle Schmitt**
-- Officer, The Philadelphia Program, The Pew Charitable Trusts
+- _Officer, The Philadelphia Program_ The Pew Charitable Trusts
 
 **Michael Schuldt**
-- Director of Consulting Services, Pennoni
+- _Director of Consulting Services_ Pennoni
 
-**Mark Wheeler- GISP, AICP**
-- Deputy CIO for Enterprise Data and Architecture, Chief Geographic Information Officer, City of Philadelphia
+**Mark Wheeler, GISP, AICP**
+- _Deputy CIO for Enterprise Data and Architecture, Chief Geographic Information Officer_ City of Philadelphia
 
 **Paul Wright**
-- Director, Vendor Management, LiftForward
+- _Director, Vendor Management_ LiftForward
