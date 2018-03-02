@@ -15,9 +15,8 @@ feature-body: >-
 published: true
 ---
 ## What is Geographic Information Systems (GIS)?
-
-GIS is anything that combines data with maps. Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers are seeking candidates trained in geospatial technologies. Geospatial technology is considered a high-growth industry by the U.S. Department of Labor. Its uses are so pervasive in modern industry that the market is growing at an annual rate of almost 35 percent, with faster than average job growth expected over the next 10 years.
-
+GIS is powerful analytical software that combines data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions, such as “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?”  Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers across industries are seeking candidates trained in geospatial technologies. Because its uses are so pervasive, geospatial technology is considered a high-growth industry by the [U.S. Department of Labor](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm), growing at an annual rate of almost 35 percent, with faster than average job growth expected over the next 10 years.
+ 
 ## Academic Offerings
 - [Major in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
 - [Minor in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
