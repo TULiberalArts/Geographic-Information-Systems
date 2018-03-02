@@ -6,7 +6,7 @@ keywords: ''
 description: >- 
 published: true
 ---
-## Professional Science Master’s (PSM) Affiliation!
+## Professional Science Master’s (PSM) Affiliation
 
 Geographic Information Systems (GIS) is a rapidly growing field with applications across the sciences, from health to environmental sciences. The goal of the GIS PSM program is to provide students with the conceptual understanding and technical skills to be competitive on the GIS job market in Philadelphia and beyond. Students will pursue a curriculum that provides advanced training in GIS, as well as professional development opportunities through an internship experience and additional exposure to “real world” scenarios.
 
