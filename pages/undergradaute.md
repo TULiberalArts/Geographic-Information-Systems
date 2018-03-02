@@ -29,16 +29,13 @@ sidebar-content: |
    [(215) 204-3386](tel:2152043386)   
    [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
-NEED CONTENT TO INTRODUCE UNDERGRAD PROGRAM
+Our undergraduate certificate in geographic information systems will make you stand out on the job market. 
 
 ## Certificate in GIS
-Our Undergraduate Certificate in Geographic Information Systems will give you the skills you need to take on advanced research positions in technology-based companies, governmental agencies, and non-profit organizations.
-
-[Learn More About the Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
-
-## How to Add the GIS Certificate
 This certificate is open to students in all majors across all colleges and schools at Temple University. To declare the GIS Certificate, visit the College of Liberal Arts Center for Academic Advising and Professional Development in Paley Library, 1st Floor. No appointment needed.
 
 Questions? Visit Julia Falcon in 338A Gladfelter Hall or email [guses@temple.edu](mailto:guses@temple.edu).
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
+[Learn More About the Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
+
++1 Content Coming
