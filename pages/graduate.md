@@ -36,8 +36,6 @@ sidebar-content: |
 ---
 Our graduate offerings include a professional science master’s and certificate in geographic information systems. 
 
-Please visit the [Geographic and Information Sysytems Admissions page](https://liberalarts.temple.edu/admissions/graduate/geographic-information-systems) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
-
 ## PSM in GIS
 Our professional science master’s in geographic information systems (PSM in GIS) is a one-year, 30-credit professional degree designed to allow students to enter or return to the work force quickly. This program is open to all students with an interest in GIS who have already completed a bachelor’s degree in any field.
 
@@ -53,4 +51,6 @@ Faculty expertise spans a diverse array of fields, including global urban develo
 [Learn More About the Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 ## Admissions Process
-Please visit the [Geographic and Information Sysytems Admissions page](https://liberalarts.temple.edu/admissions/graduate/geographic-information-systems) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. You can also view the [PSM and Graduate Certificate in GIS Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/17-18-PSM-in-GIS-Handbook.pdf).
+Please visit the [Geographic and Information Sysytems Admissions page](https://liberalarts.temple.edu/admissions/graduate/geographic-information-systems) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. 
+
+You can also view the [PSM and Graduate Certificate in GIS Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/17-18-PSM-in-GIS-Handbook.pdf).
