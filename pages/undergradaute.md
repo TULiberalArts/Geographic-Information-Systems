@@ -2,7 +2,7 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-keywords: ''
+keywords: 'certificate in gis, accelerated degree'
 description: >- 
 published: true
 sidebar: true
