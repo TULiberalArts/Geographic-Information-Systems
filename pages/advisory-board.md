@@ -2,7 +2,7 @@
 title: Advisory Board
 permalink: /advisory-board/
 layout: page
-keywords: ''
+keywords: 'geographic information sysytems, advisory board'
 description: >- 
 published: true
 ---
