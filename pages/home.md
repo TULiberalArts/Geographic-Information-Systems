@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home3
 description: >-
-keywords: ''
+keywords: 'geographic information systems, major, minor, certificate, academic offerings, psm, geography and urban studies'
 feature: true
 feature-title: Map Your Career
 feature-image: hero_GIS_bg.png
