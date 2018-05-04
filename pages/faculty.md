@@ -2,7 +2,7 @@
 title: Faculty
 permalink: /faculty/
 layout: faculty2
-keywords: ''
+keywords: 'geographic information systems, faculty, cutting edge'
 description: >- 
 published: true
 ---
