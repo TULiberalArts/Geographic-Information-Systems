@@ -2,6 +2,8 @@
 title: Graduate
 permalink: /graduate/
 layout: page
+keywords: 'professional science masters, geographic information systems, graduate certificate, admissions'
+description: >-
 published: true
 sidebar: true
 sidebar-content: |
