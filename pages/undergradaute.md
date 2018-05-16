@@ -29,7 +29,7 @@ sidebar-content: |
    [(215) 204-3386](tel:2152043386)   
    [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
-The College of Liberal Arts’ undergraduate geographic information systems [certificate](#certificate-in-gIS) will make you stand out in the job market.
+The College of Liberal Arts’ undergraduate Geographic Information Systems [certificate](#certificate-in-gIS) will make you stand out in the job market.
 
 ## Certificate in GIS
 This certificate is open to students in all majors across all colleges and schools at Temple University. To declare the GIS Certificate, visit the College of Liberal Arts Center for Academic Advising and Professional Development in Paley Library, 1st Floor. No appointment needed.
