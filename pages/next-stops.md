@@ -1,10 +1,14 @@
 ---
-title: Next Stops
+# global predefined variables
+layout: tla_page
 permalink: /next-stops/
-layout: page
-keywords: 'careers, apply, transfer, visit'
-description: >-
 published: true
+# meta-data variables
+title: Next Stops
+description: >-
+keywords: 'careers, apply, transfer, visit'
+# custom variables
+sidebar: false
 ---
 Graduates go on to succeed in a range of Geographic Information Systems careers in growing fields. What are you waiting for? Pay us a [visit](#visit) and [make your declaration](#make-your-declaration) today by [applying](#apply) to Temple University. Need more info first? Take a look at our application [deadlines](#deadlines) or learn about our [transfer](#thinking-of-transferring) opportunities.
 
