@@ -1,33 +1,15 @@
 ---
-title: Undergraduate
+# global predefined variables
+layout: tla_page
 permalink: /undergraduate/
-layout: page
-keywords: 'certificate in gis, accelerated degree'
-description: >- 
 published: true
+# meta-data variables
+title: Undergraduate
+description: >- 
+keywords: 'certificate in gis, accelerated degree'
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Melissa Gilbert  
-   309 Gladfelter Hall  
-   [(215) 204-5482](tel:2152045482)  
-   [mgilbert@temple.edu](mailto:mgilbert@temple.edu)  
-   
-   ___
-   
-   **Director:**  
-   Lee Hachadoorian  
-   334 Gladfelter Hall    
-   [(215)204-3331](tel:2152043331)
-   [Lee.Hachadoorian@temple.edu](mailto:Lee.Hachadoorian@temple.edu)  
-   
-   ___
-
-   **Coordinator:**  
-   Julia Falcon  
-   338A Gladfelter Hall    
-   [(215) 204-3386](tel:2152043386)   
-   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 The College of Liberal Arts’ undergraduate Geographic Information Systems [certificate](#certificate-in-gIS) will make you stand out in the job market.
 
