@@ -1,9 +1,14 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home3
+published: true
+# meta-data variables
+title: Home
 description: >-
 keywords: 'geographic information systems, major, minor, certificate, academic offerings, psm, geography and urban studies'
+# custom variables
+sidebar: false
 feature: true
 feature-title: Map Your Career
 feature-image: hero_GIS_bg.png
@@ -12,7 +17,6 @@ feature-body: >-
   with maps to reveal a new way to study our world. Adding our undergraduate or
   graduate GIS certificate will make you appealing to employers in a range of
   fields.
-published: true
 ---
 ## What is Geographic Information Systems (GIS)?
 GIS is powerful analytical software that combines data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions, such as “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?”  Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers across industries are seeking candidates trained in geospatial technologies. Because its uses are so pervasive, geospatial technology is considered a high-growth industry by the [U.S. Department of Labor](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm), growing at an annual rate of almost 35 percent, with faster than average job growth expected over the next 10 years.
