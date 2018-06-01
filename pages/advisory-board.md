@@ -1,10 +1,14 @@
 ---
-title: Advisory Board
+# global predefined variables
+layout: tla_page
 permalink: /advisory-board/
-layout: page
-keywords: 'geographic information sysytems, advisory board'
-description: >- 
 published: true
+# meta-data variables
+title: Advisory Board
+description: >- 
+keywords: 'geographic information sysytems, advisory board'
+# custom variables
+sidebar: false
 ---
 ## Meet the Advisory Board
 
