@@ -6,6 +6,7 @@ published: true
 # meta-data variables
 title: Resources
 description: >- 
+  Find more information on the Professional Science Master’s (PSM) Affiliation at Temple University in the College of Liberal Arts.
 keywords: 'professional science masters affiliation'
 # custom variables
 sidebar: false
