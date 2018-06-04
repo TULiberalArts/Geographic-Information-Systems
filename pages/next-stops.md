@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
+  See where your next stop could be with a degree in Geographic Information Systems from Temple University in the 
+  College of Liberal Arts. Visit us, explore careers, read up on transfer options, make your declaration today, and apply!
 keywords: 'careers, apply, transfer, visit'
 # custom variables
 sidebar: false
