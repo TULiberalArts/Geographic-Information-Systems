@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
+  Earn a Professional Science Masters in Geographic Information Systems (PSM in GIS), or a
+  GIS Certificate in the College of Liberal Arts at Temple University.
 keywords: 'professional science masters, geographic information systems, graduate certificate, admissions'
 # custom variables
 sidebar: true
