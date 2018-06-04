@@ -6,6 +6,9 @@ published: true
 # meta-data variables
 title: Home
 description: >-
+  Study our world in a new way by combining data with maps, using Geographic Information Systems (GIS) at Temple University.
+  Query, analyze, and visualize spatial data by asking the “where” questions, and earn a major, minor, or certificate 
+  from the department of Geography and Urban Studies at the College of Liberal Arts.
 keywords: 'geographic information systems, major, minor, certificate, academic offerings, psm, geography and urban studies'
 # custom variables
 sidebar: false
