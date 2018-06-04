@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Faculty
 description: >- 
+  Meet our faculty in the GIS department of the College of Liberal Arts at Temple University. 
+  Visit our research page for see specific cutting edge faculty projects.
 keywords: 'geographic information systems, faculty, cutting edge'
 # custom variables
 sidebar: false
