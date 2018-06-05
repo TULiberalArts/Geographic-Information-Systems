@@ -13,7 +13,7 @@ keywords: 'certificate in gis, accelerated degree'
 sidebar: true
 sidebar_content: sidebars/undergraduate.html
 ---
-The College of Liberal Arts’ undergraduate Geographic Information Systems [certificate](#certificate-in-gIS) will make you stand out in the job market.
+The College of Liberal Arts’ undergraduate Geographic Information Systems [certificate](#certificate-in-gIS) will make you stand out in the job market. Make sure to check out our new [accelerated degree](#accelerated-degree-4-) in GIS! 
 
 ## Certificate in GIS
 This certificate is open to students in all majors across all colleges and schools at Temple University. To declare the GIS Certificate, visit the College of Liberal Arts Center for Academic Advising and Professional Development in Paley Library, 1st Floor. No appointment needed.
