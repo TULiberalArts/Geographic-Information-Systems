@@ -6,7 +6,9 @@ published: true
 # meta-data variables
 title: Research
 description: >-
-keywords: '' 
+  Social justice, globalization, sustainability, and geographic methods are the four focus areas of research projects 
+  in the department of Geography and Urban Studies in the College of Liberal Arts at Temple University.
+keywords: 'research projects, social justice, globilization, sustainability, geographic methods' 
 # custom variables
 sidebar: false
 ---
