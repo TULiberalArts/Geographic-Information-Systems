@@ -20,7 +20,7 @@ sidebar: false
 - _Technical Team Lead, Developer Experience & Public APIs_ Planet Labs
 
 **Andrew Buss**
--_ Deputy CIO for Innovation Management_ Office of Innovation and Technology, City of Philadelphia
+- _Deputy CIO for Innovation Management_ Office of Innovation and Technology, City of Philadelphia
 
 **Robert Cheetham**
 - _President and CEO_ Azavea
