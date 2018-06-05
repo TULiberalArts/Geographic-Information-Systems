@@ -22,4 +22,25 @@ Questions? Visit Julia Falcon in 338A Gladfelter Hall or email [guses@temple.edu
 
 [Learn More About the Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
 
-+1 Content Coming
+## Accelerated Degree (4+1)
+**Start the Professional Science Master’s in GIS in your junior or senior year!**
+The Professional Science Master’s in Geographic Information Systems (PSM in GIS) 4+1 program allows students to start pursuing a graudate degree in their junior or senior year, completing both a Bachelor’s and Professional Science Master’s in five years. This reduces the number of credits that a student has to complete after the Bachelor’s degree to earn the Master’s.
+Students may enter the 4+1 in their junior or senior year, taking up to four graduate-level courses during their undergraduate program. The remaining graduate credits for the PSM in GIS would be completed in the year following the awarding of their bachelor’s degree. Graduate level courses completed during the Junior or Senior year may be used to satify major requirements, as apporpriate.
+Students who enroll in their Junior year may use up to 12 credits toward the PSM in GIS. Students will discuss which courses to take during their undergraudate program with the Assistant Director of the PSM in GIS.
+ A sample curriculum for starting Junior year is included below.
+ 
+**Junior Year**<br>
+- Fall Semester: Graduate level GIS elective<br>	
+- Spring Semester: Graduate level GIS elective<br>
+
+**Senior year**<br>
+- Fall Semester: GUS 8065: Cartography<br>	
+- Spring Semester: Graduate level GIS elective<br>
+
+- **Summer**: GUS 5162: Advanced Statistics; GUS 8069: GIS Ethics and Professional Practice 	
+- **Fall**: GUS 8067: Spatial Database Design; Graduate level GIS elective 	
+- **Spring**: GUS 8066: Application Development; GUS 9187: GIS Capstone
+
+## Application Requirements
+Please visit the [Geographic and Information Sysytems Accelerated Degree Admissions page](https://liberalarts.temple.edu/professional-science-master-s-geographic-information-systems-psm-gis-41) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+
