@@ -23,7 +23,10 @@ feature-body: >-
 ---
 ## What is Geographic Information Systems (GIS)?
 GIS is powerful analytical software that combines data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions, such as “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?”  Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers across industries are seeking candidates trained in geospatial technologies. Because its uses are so pervasive, geospatial technology is considered a high-growth industry by the [U.S. Department of Labor](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm), growing at an annual rate of almost 35 percent, with faster than average job growth expected over the next 10 years.
- 
+<div align="center"><iframe width="800" height="400" src="https://www.youtube.com/embed/Mlj-BvcAkxo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+___
+
 ## Academic Offerings
 - [Major in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
 - [Minor in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
@@ -34,7 +37,6 @@ GIS is powerful analytical software that combines data with maps. It allows user
 - [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
 - [Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
 - [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
-<div align="center"><iframe width="800" height="400" src="https://www.youtube.com/embed/Mlj-BvcAkxo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ___
 
@@ -63,5 +65,3 @@ ___
         button-text="Learn More" %}
       </div>
 </div>
-
-___
