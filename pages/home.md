@@ -34,6 +34,9 @@ GIS is powerful analytical software that combines data with maps. It allows user
 - [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
 - [Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
 - [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
+<iframe width="920" height="548" src="https://www.youtube.com/embed/Mlj-BvcAkxo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
