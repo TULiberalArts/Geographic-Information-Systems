@@ -27,7 +27,8 @@ Questions? Visit Julia Falcon in 338A Gladfelter Hall or email [guses@temple.edu
 The Professional Science Master’s in Geographic Information Systems (PSM in GIS) 4+1 program allows students to start pursuing a graudate degree in their junior or senior year, completing both a Bachelor’s and Professional Science Master’s in five years. This reduces the number of credits that a student has to complete after the Bachelor’s degree to earn the Master’s.
 Students may enter the 4+1 in their junior or senior year, taking up to four graduate-level courses during their undergraduate program. The remaining graduate credits for the PSM in GIS would be completed in the year following the awarding of their bachelor’s degree. Graduate level courses completed during the Junior or Senior year may be used to satify major requirements, as apporpriate.
 Students who enroll in their Junior year may use up to 12 credits toward the PSM in GIS. Students will discuss which courses to take during their undergraudate program with the Assistant Director of the PSM in GIS.
- A sample curriculum for starting Junior year is included below.
+
+### Sample Curriculum:
  
 **Junior Year**<br>
 - Fall Semester: Graduate level GIS elective<br>	
