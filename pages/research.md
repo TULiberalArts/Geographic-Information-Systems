@@ -15,12 +15,13 @@ sidebar: false
 ## Research Projects
 Geography and Urban Studies faculty research projects focus broadly on the interconnections among processes of globalization, the implications for sustainability, and the impact on equity and social justice. Selected research projects with a spatial analysis focus are included below.
 
-**Integrating Satellite Earth Observations for biodiversity decision making in Colombia[(Victor H. Gutierrez-Velez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo)**
-**Funding:** [NASA](https://cce.nasa.gov/cgi-bin/bio/pi_list.pl?project_group_id=3863)
+**Integrating Satellite Earth Observations for biodiversity decision making in Colombia[(Victor H. Gutierrez-Velez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo)**<br>
+**Funding:** [NASA](https://cce.nasa.gov/cgi-bin/bio/pi_list.pl?project_group_id=3863)<br>
 
 The project aims to integrate Earth Observations from multiple satellite sources to contribute with information for decision-making in biodiversity planning and management in Colombia. We are developing a Decision Support System to help characterizing biodiversity status, drivers of biodiversity change, biodiversity change scenarios and priority areas for biodiversity sampling and monitoring.
 
 **Domesticated Elephants and Monsoon-Time Transportation in South and Southeast Asia [(Jacob Shell)](https://liberalarts.temple.edu/academics/faculty/shell-jacob)**
+
 This research project focuses on Burmese and northeast Indian forest communities which train Asian elephants as a means of transportation. Up through the current decade, trained elephants have figured as an important option for humans seeking mobility across geographic zones which are prohibitive of wheeled vehicles. Elephant-based transportation becomes especially important during the flooding season, when roads are obstructed. This dual-species form of mobility endures in the overlapping Kachin, Hkamti, Moran, and Adi ethnic areas of the Indo-Burmese borderlands. Combining ethnographic fieldwork and archival work, the research project evaluates the potential advantages of these practices from political, ecological, and conservation [standpoints](https://carbonmade-media.accelerator.net/33236169;600x450.webp). 
 [View Jacob Shell’s Visual Work](https://jacobshell.carbonmade.com/projects/6306253)
 
