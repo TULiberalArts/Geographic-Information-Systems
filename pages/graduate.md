@@ -13,7 +13,7 @@ keywords: 'professional science masters, geographic information systems, graduat
 sidebar: true
 sidebar_content: sidebars/graduate.html
 ---
-The College of Liberal Arts’ offers a Geographic Information Systems [professional science masters](#psm-in-gis) and a [geographic information systems certificate](#graduate-certificate-in-gis). Learn about our [admissions process](#admissions-process) so you can further your education at Temple University. 
+The College of Liberal Arts offers a Geographic Information Systems [professional science masters](#psm-in-gis) and a [geographic information systems certificate](#graduate-certificate-in-gis). Learn about our [admissions process](#admissions-process) so you can further your education at Temple University. 
 
 ## PSM in GIS
 Our professional science master’s in geographic information systems (PSM in GIS) is a one-year, 30-credit professional degree designed to allow students to enter or return to the work force quickly. This program is open to all students with an interest in GIS who have already completed a bachelor’s degree in any field.
