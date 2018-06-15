@@ -37,8 +37,8 @@ ___
 - [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
 - [Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
 - [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
-- [4+1 BA/BS and Professional Science Master’s in Geographic Information Systems](/geographic-information-systems/undergraduate#accelerated-degree-offerings-41)
-- [4+1 BA/BS and MA in Geography and Urban Studies](/geographic-information-systems/undergraduate#accelerated-degree-offerings-41)
+- [4+1 BA/BS and Professional Science Master’s in Geographic Information Systems](/geographic-information-systems/undergraduate#accelerated-degree-41)
+- [4+1 BA/BS and MA in Geography and Urban Studies](/geographic-information-systems/undergraduate#accelerated-degree-41)
 
 ___
 
