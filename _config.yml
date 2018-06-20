@@ -5,6 +5,8 @@ title: Geographic Information Systems
 baseurl: /geographic-information-systems
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/geographic-information-systems
 
 
 # Program Information
