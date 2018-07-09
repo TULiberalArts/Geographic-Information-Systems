@@ -16,13 +16,11 @@ feature: true
 feature-title: Map Your Career
 feature-image: hero_GIS_bg.png
 feature-body: >-
-  Geographic information systems is a widely applicable skill, combining data
-  with maps to reveal a new way to study our world. Adding our undergraduate or
-  graduate GIS certificate will make you appealing to employers in a range of
-  fields.
+  Geographic information systems (GIS) have become a crucial part of data-driven decision-making. Adding a certificate or pursuing a GIS graduate degree will make you stand out in the job market.
+  
 ---
-## What is Geographic Information Systems (GIS)?
-GIS is powerful analytical software that combines data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions, such as “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?”  Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers across industries are seeking candidates trained in geospatial technologies. Because its uses are so pervasive, geospatial technology is considered a high-growth industry by the [U.S. Department of Labor](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm), growing at an annual rate of almost 35 percent, with faster than average job growth expected over the next 10 years.
+## What are Geographic Information Systems?
+GIS is powerful analytical software combining data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions: “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?” Because they are so widely applicable, geographic information systems have become a linchpins of the Information Age. Employers across industries are seeking candidates trained in geospatial technologies. Because its uses are so pervasive, geospatial technology is considered a high-growth industry by the [U.S. Department of Labor](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm), growing at an annual rate of almost 35 percent, with faster-than-average job growth expected over the next 10 years.
 <div align="center"><iframe width="800" height="400" src="https://www.youtube.com/embed/Mlj-BvcAkxo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ___
@@ -45,7 +43,7 @@ ___
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="Join a Growing Field" 
-    content="In the Information Age, there is a growing need for job candidates that are able to manipulate large volumes of data. We are teaching skills that can be applied across industries, from tech companies to non-profits and governmental agencies." 
+    content="In the Information Age, there is a growing need for job candidates that are able to manipulate large volumes of data. Temple University GIS students learn skills that are applicable across industries, from tech companies to nonprofits and governmental agencies." 
     image="" 
     button-link="/geographic-information-systems/next-stops#career-opportunities" 
     button-text="Learn More" %}
@@ -53,7 +51,7 @@ ___
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title="Complement Any Major" 
-      content="Our undergraduate certificate can be added to any major in any school or college at Temple. We offer a range of electives, to help students pursue coursework that relates to their areas of interest." 
+      content="Our undergraduate certificate can be added to any major in any Temple school or college. We offer a range of electives to help students pursue coursework that relates to their areas of interest." 
       image="" 
       button-link="/geographic-information-systems/undergraduate" 
       button-text="Learn More" %}
@@ -61,7 +59,7 @@ ___
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
         title="Stand Out on the Job Market" 
-        content="Our graduate offerings include both a professional science master's in GIS and a graduate certificate open to any student with a bachelor's degree." 
+        content="Our graduate offerings include both a professional science master's degree in GIS and a graduate certificate open to any student with a bachelor's degree." 
         image="" 
         button-link="/geographic-information-systems/graduate" 
         button-text="Learn More" %}
