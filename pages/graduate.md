@@ -13,21 +13,19 @@ keywords: 'professional science masters, geographic information systems, graduat
 sidebar: true
 sidebar_content: sidebars/graduate.html
 ---
-The College of Liberal Arts offers a Geographic Information Systems [professional science masters](#psm-in-gis) and a [geographic information systems certificate](#graduate-certificate-in-gis). Learn about our [admissions process](#admissions-process) so you can further your education at Temple University. 
+The College of Liberal Arts offers a Geographic Information Systems (GIS) [professional science masters](#psm-in-gis) and a [geographic information systems certificate](#graduate-certificate-in-gis). Learn about our [admissions process](#admissions-process) so you can further your education at Temple University. 
 
 ## PSM in GIS
-Our professional science master’s in geographic information systems (PSM in GIS) is a one-year, 30-credit professional degree designed to allow students to enter or return to the work force quickly. This program is open to all students with an interest in GIS who have already completed a bachelor’s degree in any field.
+Our professional science master degree in geographic information systems (PSM in GIS) is a one-year, 30-credit professional degree allowing students to enter or return to the work force quickly. The program is open to all students with an interest in GIS who have already completed a bachelor’s degree in any field.
 
-We prepare students for the demands of the job market, integrating advanced technical training with business ethics and professional development. Core coursework includes spatial database design, application development, technical cartography, advanced statistics, and ethics and professional practice, culminating in a hands-on capstone experience. The program trains competitive, skilled GIS analysts and prepares students to sit for the GISP certification exam. We are affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field to ensure that our program is teaching the skills that employers are seeking. 
+We prepare students for the demands of the job market, integrating advanced technical training with business ethics and professional development. Core coursework includes spatial database design, application development, technical cartography, advanced statistics and ethics and professional practice, culminating in a hands-on capstone experience. The program trains competitive, skilled GIS analysts and prepares students to sit for the GISP certification exam. We are affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field to ensure that our program is teaching the skills that employers are seeking.
 
-[Learn More About the Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
+Learn More About the [Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 ## Graduate Certificate in GIS
-Our 12-credit graduate certificate in GIS is open to all students who have completed an undergraduate degree — including current Temple graduate students and those not currently enrolled in a graduate program.
+Our 12-credit graduate certificate in GIS is open to all students who have completed an undergraduate degree—including current Temple University graduate students and those not currently enrolled in a graduate program. The program has a range of GIS electives to allow graduate certificate students to tailor their coursework to their professional or academic interests. Contact [psmgis@temple.edu](mailto:psmgis.temple.edu) to get started on your certificate!
 
-Faculty expertise spans a diverse array of fields, including global urban development, urban ecology and sustainability, health geography and food systems, critical approaches to nature-society relations, and theory and implementation of geographic information technologies. We offer a range of GIS electives, to allow students in the Graduate Certificate to tailor their coursework to their professional or academic interests.
-
-[Learn More About the Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
+Learn More About the [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 ## Admissions Process
 Please visit the [Geographic and Information Sysytems Admissions page](https://liberalarts.temple.edu/admissions/graduate/geographic-information-systems) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. 
