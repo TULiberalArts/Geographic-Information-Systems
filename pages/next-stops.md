@@ -46,15 +46,6 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
   GIS Application Developer at the City of Philadelphia Department of Planning and Development<br/>
   PSM in Geographic Information Systems, 2018<br/>
 
-See where some of out additional alumni have landed:
-- Jessica Wyckoff, Philabundance (food) (GUS/ES 2009)<br/>
-- Aaron Fraint, Bicycle Planner & GIS Developer, New York City Department of (GUS/ES 2011)<br/>
-- Will Fraser, Transportation Outreach Coordinator, Clean Air Council (ES, 2016)<br/>
-- Caroline Slama, Associate Director, Preservation Services, Preservation Alliance (GUS, 2016)<br/>
-- Alyssa Geoghan, Assistant Planner, Michael Baker (ES, 2016)<br/>
-- Taylor Magee, Volunteer Services Coordinator, Habitat for Humanity (ES 2017)<br/>
-- Mattingly Cohen, Community Outreach Coordinator, Philadelphia Parks Alliance (GUS 2017)<br/>
-
   ___
 
 ## Make Your Declaration
