@@ -41,5 +41,4 @@ The 4+1 program empowers students to complete a bachelor’s and a master’s de
 - **Spring**: GUS 8066: Application Development; GUS 9187: GIS Capstone
 
 ## Application Requirements
-Please visit the [Geographic and Information Sysytems Accelerated Degree Admissions page](https://liberalarts.temple.edu/professional-science-master-s-geographic-information-systems-psm-gis-41) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
-
+Please visit the [Geographic and Information Sysytems Accelerated Degree Admissions page](https://liberalarts.temple.edu/professional-science-master-s-geographic-information-systems-psm-gis-41) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. Have additional questions? View our [FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/PSM%20in%20GIS%204%2B1%20FAQ.pdf).
