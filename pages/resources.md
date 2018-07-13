@@ -12,7 +12,7 @@ keywords: 'professional science masters affiliation'
 sidebar: false
 ---
 ## GIS is a High-Growth Field
-The [United States Department of Labor](http://www.bls.gov/ooh/architecture-and-engineering/cartographers-and-photogrammetrists.htm) 
+The [United States Department of Labor](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm) 
 recognized geospatial technology as an emerging area forecast for faster-than-average job growth in the foreseeable future. There is a long history of geographic information systems (GIS) in public and regulated sectors: utilities, telecommunication and transportation. Given the large growth in spatial data being continually generated in the Information Age, there is now even higher demand for geotechnologists in the private sector as well. GIS has become a key tool to data-driven decision making across all sectors. Given the recent growth in geospatial technology, the demand for a highly trained workforce is soaring.
 
 ## Professional Science Master’s (PSM) Affiliation
