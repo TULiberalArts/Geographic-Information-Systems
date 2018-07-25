@@ -4,7 +4,7 @@ layout: tla_ppv_page
 permalink: /psm-gis/
 published: true
 # meta-data variables
-title: PSM in Geographic Information Systems
+title: Geographic Information Systems
 description: >-
   An ideal program for professionals working in
 keywords: 'masters, Geographic Information Systems, professional'  
