@@ -12,6 +12,8 @@ keywords: 'professional science masters, geographic information systems, graduat
 # custom variables
 sidebar: true
 sidebar_content: sidebars/graduate.html
+graduate_students: true
+graduate_students_content: profiles/graduate_students_2.html
 ---
 The College of Liberal Arts offers a Geographic Information Systems (GIS) [professional science masters](#psm-in-gis) and a [geographic information systems certificate](#graduate-certificate-in-gis). Learn about our [admissions process](#admissions-process) so you can further your education at Temple University. 
 
@@ -28,6 +30,10 @@ Our 12-credit graduate certificate in GIS is open to all students who have compl
 Learn More About the [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 ## Admissions Process
-Please visit the [Geographic and Information Sysytems Admissions page](https://liberalarts.temple.edu/admissions/graduate/geographic-information-systems) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. 
+Please visit the [Geographic and Information Systems Admissions page](https://liberalarts.temple.edu/admissions/graduate/geographic-information-systems) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. 
 
 You can also view the [PSM and Graduate Certificate in GIS Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/17-18-PSM-in-GIS-Handbook.pdf).
+
+___
+
+{% include {{ page.graduate_students_content }} %}
