@@ -16,8 +16,6 @@ ppv_form_content: forms/ppv-psm-gis.html
 sidebar: true
 sidebar_content: sidebars/ppv-psm-gis.html
 ---
-Temple University's
-
 # Professional Science Masters & GIS Graduate Certificate
 
 Get educated today for tomorrow's jobs.
