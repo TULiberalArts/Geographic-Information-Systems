@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_ppv_page
 permalink: /psm-gis/
-published: true
+published: false
 # meta-data variables
 title: Geographic Information Systems
 description: >-
