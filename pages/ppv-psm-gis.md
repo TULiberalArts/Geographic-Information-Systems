@@ -16,13 +16,11 @@ ppv_form_content: forms/ppv-psm-gis.html
 sidebar: true
 sidebar_content: sidebars/ppv-psm-gis.html
 ---
-Get educated today for tomorrow's jobs.
-
 Enhance your community.{:.MyClass}
 
 Interested in boosting your career prospects with a versatile degree in geographic information systems (GIS)? Temple University’s professional science master degree and graduate certificate in geographic information systems produce GIS experts every year.
 
-## Professional Science Master's (PSM) in GIS
+## Professional Science Master's in GIS
 
 Our geographic information system master degree program is a one-year, 30-credit professional degree that quickly teaches you the skills and knowledge you need to enter or quickly return to a thriving career. As a student, you’ll learn cutting-edge GIS techniques in spatial analysis, programming and design through courses like:
 
