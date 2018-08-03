@@ -4,10 +4,10 @@ layout: tla_home
 permalink: /
 published: true
 # meta-data variables
-title: Home
+title: Geographic Information Systems
 description: >-
   Study our world in a new way by combining data with maps, using Geographic Information Systems (GIS) at Temple University.
-  Query, analyze, and visualize spatial data by asking the “where” questions, and earn a major, minor, or certificate 
+  Query, analyze, and visualize spatial data by asking the “where” questions, and earn a major, minor, or certificate
   from the department of Geography and Urban Studies at the College of Liberal Arts.
 keywords: 'geographic information systems, major, minor, certificate, academic offerings, psm, geography and urban studies'
 # custom variables
@@ -41,27 +41,27 @@ ___
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Join a Growing Field" 
-    content="In the Information Age, there is a growing need for job candidates that are able to manipulate large volumes of data. Temple University GIS students learn skills that are applicable across industries, from tech companies to nonprofits and governmental agencies." 
-    image="" 
-    button-link="/geographic-information-systems/next-stops#career-opportunities" 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="Join a Growing Field"
+    content="In the Information Age, there is a growing need for job candidates that are able to manipulate large volumes of data. Temple University GIS students learn skills that are applicable across industries, from tech companies to nonprofits and governmental agencies."
+    image=""
+    button-link="/geographic-information-systems/next-stops#career-opportunities"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="Complement Any Major" 
-      content="Our undergraduate certificate can be added to any major in any Temple school or college. We offer a range of electives to help students pursue coursework that relates to their areas of interest." 
-      image="" 
-      button-link="/geographic-information-systems/undergraduate" 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="Complement Any Major"
+      content="Our undergraduate certificate can be added to any major in any Temple school or college. We offer a range of electives to help students pursue coursework that relates to their areas of interest."
+      image=""
+      button-link="/geographic-information-systems/undergraduate"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Stand Out on the Job Market" 
-        content="Our graduate offerings include both a professional science master's degree in GIS and a graduate certificate open to any student with a bachelor's degree." 
-        image="" 
-        button-link="/geographic-information-systems/graduate" 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="Stand Out on the Job Market"
+        content="Our graduate offerings include both a professional science master's degree in GIS and a graduate certificate open to any student with a bachelor's degree."
+        image=""
+        button-link="/geographic-information-systems/graduate"
         button-text="Learn More" %}
       </div>
 </div>

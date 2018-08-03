@@ -15,6 +15,8 @@ ppv_form: true
 ppv_form_content: forms/ppv-psm-gis.html
 sidebar: true
 sidebar_content: sidebars/ppv-psm-gis.html
+event_snippit: true
+event_snippit_content: google/event_snippit.txt
 ---
 Enhance your community.
 {:.fake-h2}
