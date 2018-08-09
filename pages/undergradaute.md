@@ -18,6 +18,8 @@ The College of Liberal Arts’ undergraduate Geographic Information Systems [cer
 ## Certificate in GIS
 This certificate is open to students in all majors across all Temple University colleges and schools. To enroll in the GIS certificate program, visit the College of Liberal Arts Center for Academic Advising and Professional Development in Paley Library, 1st Floor. No appointment needed.
 
+[Learn More About the Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-geographic-information-systems/)
+
 Questions? Visit Julia Falcon in 338A Gladfelter Hall or email [guses@temple.edu](mailto:guses@temple.edu).
 
 ## Accelerated Degree (4+1)
