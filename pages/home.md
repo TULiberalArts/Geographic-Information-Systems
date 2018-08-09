@@ -32,7 +32,7 @@ ___
 - [Minor in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
 - [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 - [MA in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
-- [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
+- [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-geographic-information-systems/)
 - [Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
 - [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 - [4+1 BA/BS and Professional Science Master’s in Geographic Information Systems](/geographic-information-systems/undergraduate#accelerated-degree-41)
