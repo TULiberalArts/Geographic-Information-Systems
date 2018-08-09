@@ -20,8 +20,6 @@ This certificate is open to students in all majors across all Temple University 
 
 Questions? Visit Julia Falcon in 338A Gladfelter Hall or email [guses@temple.edu](mailto:guses@temple.edu).
 
-[Learn More About the Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
-
 ## Accelerated Degree (4+1)
 **Start the Professional Science Master’s in GIS in your junior or senior year!**
 This program allows students to start pursuing a graduate degree in a high-growth field in their junior or senior year and is open to students in all majors who are interested in careers in data-driven decision making, spatial analysis and data visualization. This reduces the number of credits you need to take after finishing your bachelor’s before you’ll earn your master’s. Starting in their junior or senior year, students take up to four graduate-level courses during their undergraduate program. The remaining graduate credits for the PSM in GIS are completed in the year following the awarding of a bachelor’s degree. Graduate level courses completed during the junior or senior year may be used to satisfy major requirements, as appropriate. Students who enroll in their junior year may use up to 12 credits toward the PSM in GIS. Students will discuss which courses to take during their undergraduate program with the Assistant Director of the PSM in GIS.
