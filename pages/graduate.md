@@ -32,7 +32,7 @@ Learn More About the [Graduate Certificate in Geographic Information Systems](ht
 ## Admissions Process
 Please visit the [Geographic and Information Systems Bulletin](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. 
 
-You can also view the [PSM and Graduate Certificate in GIS Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Handbook%20for%20PSM%20and%20Certificate%20in%20GIS%2020180823%20%281%29.docx)).
+You can also view the [PSM and Graduate Certificate in GIS Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Handbook%20for%20PSM%20and%20Certificate%20in%20GIS%2020180823%20%281%29.docx).
 
 ___
 
