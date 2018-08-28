@@ -11,6 +11,7 @@ description: >-
   from the department of Geography and Urban Studies at the College of Liberal Arts.
 keywords: 'geographic information systems, major, minor, certificate, academic offerings, psm, geography and urban studies'
 # custom variables
+promotion-table: true
 sidebar: false
 feature: true
 feature-title: Map Your Career
