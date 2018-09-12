@@ -17,7 +17,7 @@ feature: true
 feature-title: Map Your Career
 feature-image: hero_GIS_bg.png
 feature-body: >-
-  Geographic information systems (GIS) have become a crucial part of data-driven decision-making. Adding a certificate or pursuing a GIS graduate degree will make you stand out in the job market.
+  Geographic Information Systems (GIS) have become a crucial part of data-driven decision-making. Adding a certificate or pursuing a GIS graduate degree will make you stand out in the job market.
   
 ---
 ## What are Geographic Information Systems?
@@ -44,7 +44,7 @@ ___
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Join a Growing Field"
-    content="In the Information Age, there is a growing need for job candidates that are able to manipulate large volumes of data. Temple University GIS students learn skills that are applicable across industries, from tech companies to nonprofits and governmental agencies."
+    content="In the Information Age, there is a growing need for job candidates who are able to manipulate large volumes of data. Temple University GIS students learn skills that are applicable across industries, from tech companies to nonprofits and governmental agencies."
     image=""
     button-link="/geographic-information-systems/next-stops#career-opportunities"
     button-text="Learn More" %}
@@ -60,7 +60,7 @@ ___
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
         title="Stand Out on the Job Market"
-        content="Our graduate offerings include both a professional science master's degree in GIS and a graduate certificate open to any student with a bachelor's degree."
+        content="Our graduate offerings include both a Professional Science Master's (PSM) in GIS and a graduate certificate open to any student with a bachelor's degree."
         image=""
         button-link="/geographic-information-systems/graduate"
         button-text="Learn More" %}
