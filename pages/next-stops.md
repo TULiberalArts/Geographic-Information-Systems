@@ -12,7 +12,7 @@ keywords: 'careers, apply, transfer, visit'
 # custom variables
 sidebar: false
 ---
-Geographic information systems graduates succeed in a range of careers in growing fields. What are you waiting for? Pay us a [visit](#visit) and [make your declaration](#make-your-declaration) today by [applying](#apply) to Temple University. Need more info first? Take a look at our application [deadlines](#deadlines) or learn about our [transfer](#thinking-of-transferring) opportunities.
+Geographic information systems graduates succeed in a range of careers in growing fields. What are you waiting for? Pay us a [visit](#visit-us) and [make your declaration](#make-your-declaration) today by [applying](#apply) to Temple University. Need more info first? Take a look at our application [deadlines](#deadlines) or learn about our [transfer](#thinking-of-transferring) opportunities.
 
 ## Career Opportunities
 Training in GIS will give you the skills you need to take on advanced research positions in technology-based companies, governmental agencies and nonprofit organizations. A variety of industries are looking to hire professionals with this important skill set, including public health, the environment, business, technology, planning, education, design, criminal justice, sociology, communications, journalism and engineering.
