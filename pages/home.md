@@ -22,7 +22,7 @@ feature-body: >-
 ---
 ## What are Geographic Information Systems?
 GIS is powerful analytical software combining data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions: “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?” Because they are so widely applicable, geographic information systems have become a linchpins of the Information Age. Employers across industries are seeking candidates trained in geospatial technologies. Because its uses are so pervasive, geospatial technology is considered a high-growth industry by the [U.S. Department of Labor](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm), growing at an annual rate of almost 35 percent, with faster-than-average job growth expected over the next 10 years.
-<div align="center"><iframe width="800" height="400" src="https://www.youtube.com/embed/Mlj-BvcAkxo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div align="center" class="video-container"><iframe width="800" height="400" src="https://www.youtube.com/embed/Mlj-BvcAkxo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ___
 
