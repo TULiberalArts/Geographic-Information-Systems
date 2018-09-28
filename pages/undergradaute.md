@@ -5,15 +5,14 @@ permalink: /undergraduate/
 published: true
 # meta-data variables
 title: Undergraduate
-description: >- 
-  Earn a certificate in Geographic Information Systems through the College of Liberal Arts 
+description: >-
+  Earn a certificate in Geographic Information Systems through the College of Liberal Arts
   at Temple University, and learn more about our accelerated degree options.
 keywords: 'certificate in gis, accelerated degree'
 # custom variables
-
 sidebar: sidebars/undergraduate.html
 ---
-The College of Liberal Arts’ undergraduate Geographic Information Systems [certificate](#certificate-in-gIS) will make you stand out in the job market. Make sure to check out our new [accelerated degree](#accelerated-degree-4-) in GIS! 
+The College of Liberal Arts’ undergraduate Geographic Information Systems [certificate](#certificate-in-gIS) will make you stand out in the job market. Make sure to check out our new [accelerated degree](#accelerated-degree-4-) in GIS!
 
 ## Certificate in GIS
 This certificate is open to students in all majors across all Temple University colleges and schools. To enroll in the GIS certificate program, visit the College of Liberal Arts Center for Academic Advising and Professional Development in Paley Library, 1st Floor. No appointment needed.
@@ -29,11 +28,11 @@ This program allows students to start pursuing a graduate degree in a high-growt
 ### Sample Curriculum:
  
 **Junior Year**<br>
-- Fall Semester: Graduate-level GIS elective<br>	
+- Fall Semester: Graduate-level GIS elective<br>
 - Spring Semester: Graduate-level GIS elective<br>
 
 **Senior year**<br>
-- Fall Semester: GUS 8065: Cartography<br>	
+- Fall Semester: GUS 8065: Cartography<br>
 - Spring Semester: Graduate-level GIS elective<br>
 
 - **Summer**: GUS 5162: Advanced Statistics; GUS 8069: GIS Ethics and Professional Practice 	

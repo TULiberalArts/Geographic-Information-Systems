@@ -10,12 +10,10 @@ description: >-
   GIS Certificate in the College of Liberal Arts at Temple University.
 keywords: 'professional science masters, geographic information systems, graduate certificate, admissions'
 # custom variables
-
 sidebar: sidebars/graduate.html
-
 graduate_students: profiles/graduate_students_2.html
 ---
-The College of Liberal Arts offers a [Professional Science Master's](#psm-in-gis) and a [graduate certificate](#graduate-certificate-in-gis) in Geographic Information Systems. Learn about our [admissions process](#admissions-process) so you can further your education at Temple University. 
+The College of Liberal Arts offers a [Professional Science Master's](#psm-in-gis) and a [graduate certificate](#graduate-certificate-in-gis) in Geographic Information Systems. Learn about our [admissions process](#admissions-process) so you can further your education at Temple University.
 
 ## PSM in GIS
 Our Professional Science Master's degree in Geographic Information Systems (PSM in GIS) is a one-year, 30-credit professional degree allowing students to enter or return to the work force quickly. The program is open to all students with an interest in GIS who have already completed a bachelor’s degree in any field.
@@ -30,7 +28,7 @@ Our 12-credit graduate certificate in GIS is open to all students who have compl
 Learn More About the [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 ## Admissions Process
-Please visit the [Geographic and Information Systems Bulletin](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. 
+Please visit the [Geographic and Information Systems Bulletin](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 You can also view the [PSM and Graduate Certificate in GIS Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Handbook%20for%20PSM%20and%20Certificate%20in%20GIS%2020180823%20%281%29.docx).
 

@@ -9,11 +9,8 @@ description: >-
   An ideal program for professionals working in
 keywords: 'masters, Geographic Information Systems, professional'  
 # custom variables
-hero: true
-hero_content: hero/ppv-psm-gis.html
-ppv_form: true
-ppv_form_content: forms/ppv-psm-gis.html
-
+hero: hero/ppv-psm-gis.html
+ppv_form: forms/ppv-psm-gis.html
 sidebar: sidebars/ppv-psm-gis.html
 ---
 Enhance your community.
