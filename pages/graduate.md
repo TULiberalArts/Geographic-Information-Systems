@@ -10,10 +10,10 @@ description: >-
   GIS Certificate in the College of Liberal Arts at Temple University.
 keywords: 'professional science masters, geographic information systems, graduate certificate, admissions'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/graduate.html
-graduate_students: true
-graduate_students_content: profiles/graduate_students_2.html
+
+sidebar: sidebars/graduate.html
+
+graduate_students: profiles/graduate_students_2.html
 ---
 The College of Liberal Arts offers a [Professional Science Master's](#psm-in-gis) and a [graduate certificate](#graduate-certificate-in-gis) in Geographic Information Systems. Learn about our [admissions process](#admissions-process) so you can further your education at Temple University. 
 

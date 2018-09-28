@@ -12,7 +12,7 @@ description: >-
 keywords: 'geographic information systems, major, minor, certificate, academic offerings, psm, geography and urban studies'
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-title: Map Your Career
 feature-image: hero_GIS_bg.png

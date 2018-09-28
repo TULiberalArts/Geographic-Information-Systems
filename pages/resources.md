@@ -9,7 +9,7 @@ description: >-
   Find more information on the Professional Science Master’s (PSM) Affiliation at Temple University in the College of Liberal Arts.
 keywords: 'professional science masters affiliation'
 # custom variables
-sidebar: false
+
 ---
 ## GIS is a High-Growth Field
 The [United States Department of Labor](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm) 

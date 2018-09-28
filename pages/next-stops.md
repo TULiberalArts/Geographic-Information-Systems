@@ -10,7 +10,7 @@ description: >-
   College of Liberal Arts. Visit us, explore careers, read up on transfer options, make your declaration today, and apply!
 keywords: 'careers, apply, transfer, visit'
 # custom variables
-sidebar: false
+
 ---
 Geographic information systems graduates succeed in a range of careers in growing fields. What are you waiting for? Pay us a [visit](#visit-us) and [make your declaration](#make-your-declaration) today by [applying](#apply) to Temple University. Need more info first? Take a look at our application [deadlines](#deadlines) or learn about our [transfer](#thinking-of-transferring) opportunities.
 

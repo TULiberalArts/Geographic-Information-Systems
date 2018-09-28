@@ -9,7 +9,7 @@ description: >-
   Meet the advisory board of the College of Liberal Arts’ Geographic Information Systems program at Temple University.
 keywords: 'geographic information sysytems, advisory board'
 # custom variables
-sidebar: false
+
 ---
 ## Meet the Advisory Board
 

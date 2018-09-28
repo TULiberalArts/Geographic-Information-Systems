@@ -13,8 +13,8 @@ hero: true
 hero_content: hero/ppv-psm-gis.html
 ppv_form: true
 ppv_form_content: forms/ppv-psm-gis.html
-sidebar: true
-sidebar_content: sidebars/ppv-psm-gis.html
+
+sidebar: sidebars/ppv-psm-gis.html
 ---
 Enhance your community.
 {:.fake-h2}

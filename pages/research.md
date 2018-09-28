@@ -10,7 +10,7 @@ description: >-
   in the department of Geography and Urban Studies in the College of Liberal Arts at Temple University.
 keywords: 'research projects, social justice, globilization, sustainability, geographic methods' 
 # custom variables
-sidebar: false
+
 ---
 ## Research Projects
 Geography and urban studies faculty research projects focus broadly on the interconnections among processes of globalization, the implications for sustainability and the impact on equity and social justice. Selected research projects with a spatial analysis focus are included below.

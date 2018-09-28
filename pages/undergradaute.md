@@ -10,8 +10,8 @@ description: >-
   at Temple University, and learn more about our accelerated degree options.
 keywords: 'certificate in gis, accelerated degree'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+
+sidebar: sidebars/undergraduate.html
 ---
 The College of Liberal Arts’ undergraduate Geographic Information Systems [certificate](#certificate-in-gIS) will make you stand out in the job market. Make sure to check out our new [accelerated degree](#accelerated-degree-4-) in GIS! 
 
