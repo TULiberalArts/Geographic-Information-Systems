@@ -34,4 +34,4 @@ You can also view the [PSM and Graduate Certificate in GIS Handbook](https://lib
 
 ___
 
-{% include {{ page.graduate_students_content }} %}
+{% include {{ page.graduate_students }} %}
