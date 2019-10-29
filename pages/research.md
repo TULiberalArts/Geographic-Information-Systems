@@ -19,9 +19,13 @@ Geography and urban studies faculty research projects focus broadly on the inter
 **Funding:** [NASA](https://cce.nasa.gov/cgi-bin/bio/pi_list.pl?project_group_id=3863)<br>
 The project aims to integrate Earth Observations from multiple satellite sources to contribute with information for decision-making in biodiversity planning and management in Colombia. We are developing a Decision Support System to help characterize biodiversity status, drivers of biodiversity change, biodiversity change scenarios and priority areas for biodiversity sampling, and monitoring.
 
+___
+
 **Domesticated Elephants and Monsoon-Time Transportation in South and Southeast Asia [(Jacob Shell)](https://liberalarts.temple.edu/academics/faculty/shell-jacob)**<br>
 This research project focuses on Burmese and northeast Indian forest communities that train Asian elephants as a means of transportation. Up through the current decade, trained elephants have figured as an important option for humans seeking mobility across geographic zones that prohibit wheeled vehicles. Elephant-based transportation becomes especially important during the flooding season, when roads are obstructed. This dual-species form of mobility endures in the overlapping Kachin, Hkamti, Moran and Adi ethnic areas of the Indo-Burmese borderlands. Combining ethnographic fieldwork and archival work, the research project evaluates the potential advantages of these practices from political, ecological and conservation [standpoints](https://carbonmade-media.accelerator.net/33236169;600x450.webp). 
 [View Jacob Shell’s Visual Work](https://jacobshell.carbonmade.com/projects/6306253)
+
+___
 
 **Gentrification and Green Space Development in Philadelphia [(Hamil Pearsall)](https://liberalarts.temple.edu/academics/faculty/pearsall-hamil)**<br>
 Dr. Hamil Pearsall is the Principal Investigator on a project examining gentrification impacts associated with the creation of 15 new parks in Philadelphia since 2008. Learn more about [Dr. Pearsall’s work](https://sites.temple.edu/hpearsall/).
