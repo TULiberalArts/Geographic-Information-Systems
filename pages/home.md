@@ -44,7 +44,7 @@ ___
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Join a Growing Field"
     content="In the Information Age, there is a growing need for job candidates who are able to manipulate large volumes of data. Temple University GIS students learn skills that are applicable across industries, from tech companies to nonprofits and governmental agencies."
     image=""
@@ -52,7 +52,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Complement Any Major"
       content="Our undergraduate certificate can be added to any major in any Temple school or college. We offer a range of electives to help students pursue coursework that relates to their areas of interest."
       image=""
@@ -60,7 +60,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Stand Out on the Job Market"
         content="Our graduate offerings include both a Professional Science Master's (PSM) in GIS and a graduate certificate open to any student with a bachelor's degree."
         image=""
