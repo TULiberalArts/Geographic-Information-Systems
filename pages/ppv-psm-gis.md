@@ -13,7 +13,7 @@ hero: hero/ppv-psm-gis.html
 ppv_form: forms/ppv-psm-gis.html
 sidebar: sidebars/ppv-psm-gis.html
 ---
-Enhance your community.
+Enhance Your Community.
 {:.fake-h2}
 
 Interested in boosting your career prospects with a versatile degree in geographic information systems (GIS)? Temple University’s professional science master degree and graduate certificate in geographic information systems produce GIS experts every year.
