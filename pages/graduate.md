@@ -27,9 +27,20 @@ Our 12-credit graduate certificate in GIS is open to all students who have compl
 
 Learn More About the [Graduate Certificate in Geographic Information Systems](https://www.temple.edu/academics/degree-programs/geographic-information-systems-certificate-graduate-la-gis-grad)
 
+## Professional Science Master’s in Geospatial Data Science
+Professional Science Master’s in Geospatial Data Science students will learn to process, and analyze spatial data through in-demand technical skills including programming, statistics, big data analytics, application development, machine learning, and interactive and exploratory data visualization. Graduates may be expected to work in contexts outside the realm of traditional GIS jobs, including in corporate environments. With increasing access to geospatial data, the demand for organizations to undertake projects that require geospatial skills and a spatial perspective will increase. 
+
+Full-time students can complete the Professional Science Master’s in Geospatial Data Science in as little as one-year, returning quickly to the workforce. The program curriculum is informed by an advisory board of industry professionals and incorporates real-world experiences through project-based learning and an internship capstone requirement. 
+
+- Please email [psmgis@temple.edu](mailto:psmgis@temple.edu) to inquire about applications and for further details. 
+
+## Graduate Certificate in Geospatial Data Science
+We offer a graduate certificate for students who already have a BA and want to pursue additional coursework in Geospatial Data Science. Our courses introduce students to a variety of data science tools with a focus on location-based data. The certificate complements our Professional Science Master’s in Geospatial Data Science and serves as a gateway into the program. It also pairs well with other graduate programs in the College of Liberal Arts and throughout Temple University.
+
+- Please email [psmgis@temple.edu](mailto:psmgis@temple.edu) to inquire about applications and for further details.
+
 ## Admissions Process
-## Admissions Process
-Please visit the [Professional Science Master’s in Geographic Information Systems](https://www.temple.edu/academics/degree-programs/geographic-information-systems-psm-la-gis-psm/cla-geographic-information-systems-psm-admissions) or [Graduate Certificate in Geographic Information Systems](https://www.temple.edu/academics/degree-programs/geographic-information-systems-certificate-graduate-la-gis-grad/cla-geographic-information-systems-ug-cert-admissions) admissions pages to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [Professional Science Master’s in Geographic Information Systems Admissions page](https://www.temple.edu/academics/degree-programs/geographic-information-systems-psm-la-gis-psm/cla-geographic-information-systems-psm-admissions) or [Graduate Certificate in Geographic Information Systems Admissions page](https://www.temple.edu/academics/degree-programs/geographic-information-systems-certificate-graduate-la-gis-grad/cla-geographic-information-systems-ug-cert-admissions) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 You can also view the [PSM and Graduate Certificate in GIS Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Handbook%20for%20PSM%20and%20Certificate%20in%20GIS%2020180823%20%281%29.docx).
 
