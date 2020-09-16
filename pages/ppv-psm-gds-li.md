@@ -2,14 +2,14 @@
 # global predefined variables
 layout: tla_ppv_page
 permalink: /psm-gds/
-published: false
+published: true
 # meta-data variables
 title: Professional Science Master’s in Geospatial Data Science
 description: >-
   An ideal program for professionals working in
 keywords: 'masters, Geospatial Data Science, professional'  
 # custom variables
-hero: hero/ppv-psm-gis.html
+hero: hero/ppv-gds.html
 ppv_form: 
 sidebar: sidebars/ppv-psm-gis.html
 ---
