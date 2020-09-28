@@ -18,7 +18,7 @@ sidebar: sidebars/ppv-psm-gis.html
 
 ## Geospatial Data Science Graduate Degree and Certificate Programs
 Earning a Temple University Geospatial Data Science master’s degree or graduate certificate is your fast pass for turning your passion for geographic information into a rewarding and fulfilling career. Our Geospatial Data Science graduate programs teach you to use in-demand technical skills like big data, application development, machine learning, statistics, data visualization and programming.
-Just how in-demand are these skills? The U.S. Bureau of Labor Statistics estimates that the demand for spatial data scientists will grow 18% by 2028 and that the median salary for data scientists is nearly $90,000.*
+Just how in-demand are these skills? The Department of Labor estimates annual market growth of 35% and the median salary for data scientists is nearly $90,000.*
 
 And since both of Temple’s graduate-level Geospatial Data Science programs are designed to be completed in one year, you can take advantage of this growing job market quickly. Plus, all courses start after 5:30 p.m., making it possible for current professionals to continue working while learning.
 So, what are you waiting for? Fill out the short form on this page to get started!
