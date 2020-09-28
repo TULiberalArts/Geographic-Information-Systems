@@ -44,4 +44,4 @@ Temple’s 12-credit, Geospatial Data Science Graduate Certificate focuses on lo
 Coursework focuses on geographic analysis and solutions that help advance science and society and solve location-based problems. You’ll study big data handling, data mining, geospatial analytics and machine learning as well as core data science competencies and industry-standard tools.
 Temple’s graduate certificate is also a great stepping stone to our Professional Science Master’s in Geospatial Data Science.
  
-_*Source: https://study.com/articles/spatial_data_scientist_job_description_salary.html_
+_*Source: [https://study.com/articles/spatial_data_scientist_job_description_salary.html](https://study.com/articles/spatial_data_scientist_job_description_salary.html)_
