@@ -13,7 +13,7 @@ hero: hero/ppv-gds.html
 ppv_form: forms/ppv-psm-gds.html
 sidebar: sidebars/ppv-psm-gis.html
 ---
-Enhance your community.
+
 {:.fake-h2}
 
 ## Geospatial Data Science Graduate Degree and Certificate Programs
@@ -26,9 +26,9 @@ So, what are you waiting for? Fill out the short form on this page to get starte
 ### Professional Science Master’s in Geospatial Data Science
 One of the first U.S. programs of its kind, Temple’s Professional Science Master’s Degree in Geospatial Data Science is a 30-credit program in a growing field rooted in computer science, mathematics and statistics. The data science fundamentals and emerging trends you’ll study will empower you to work across myriad disciplines and industries like:
 
-+ climate adaptation
++ climate adaptation,
 
-+ urban and environmental planning
++ urban and environmental planning,
 
 + retail and business location planning,
 
