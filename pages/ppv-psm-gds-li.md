@@ -17,14 +17,16 @@ sidebar: sidebars/ppv-psm-gis.html
 {:.fake-h2}
 
 ## Geospatial Data Science Graduate Degree and Certificate Programs
-Earning a Temple University Geospatial Data Science master’s degree or graduate certificate is your fast pass for turning your passion for geographic information into a rewarding and fulfilling career. Our Geospatial Data Science graduate programs teach you to use in-demand technical skills like big data, application development, machine learning, statistics, data visualization and programming.
-Just how in-demand are these skills? The Department of Labor estimates annual market growth of 35% and the median salary for data scientists is nearly $90,000.*
+Earning a Temple University Geospatial Data Science master’s degree or graduate certificate is your fast pass for turning your passion for geographic information into a rewarding and fulfilling career. Our Geospatial Data Science graduate programs teach you to use in-demand technical skills like big data, application development, machine learning, statistics, data visualization and SQL programming.
+
+Just how in-demand are these skills? The U.S. Bureau of Labor Statistics estimates that the demand for spatial data scientists will grow 18% by 2028 and that the median salary for data scientists is nearly $90,000.*
 
 And since both of Temple’s graduate-level Geospatial Data Science programs are designed to be completed in one year, you can take advantage of this growing job market quickly. Plus, all courses start after 5:30 p.m., making it possible for current professionals to continue working while learning.
+
 So, what are you waiting for? Fill out the short form on this page to get started!
 
 ### Professional Science Master’s in Geospatial Data Science
-One of the first U.S. programs of its kind, Temple’s Professional Science Master’s Degree in Geospatial Data Science is a 30-credit program in a growing field rooted in computer science, mathematics and statistics. The data science fundamentals and emerging trends you’ll study will empower you to work across myriad disciplines and industries like:
+One of the first U.S. programs of its kind, Temple’s Professional Science Master’s Degree in Geospatial Data Science is a 30-credit program combining all the skills from a big data master’s and, a programming degree with aand a critical social science perspective.an urban planning degree. in a This growing field is rooted in computer science, mathematics, geospatial analytics, geospatial intelligence and statistics. The data science fundamentals and emerging trends you’ll study will empower you to work across myriad disciplines and industries like:
 
 + climate adaptation,
 
@@ -39,9 +41,11 @@ One of the first U.S. programs of its kind, Temple’s Professional Science Mast
 Graduates are ready to launch or advance careers as data scientists or geographic information systems professionals in either the private or public sector.
 
 ### Geospatial Data Science Graduate Certificate
-Temple’s 12-credit, Geospatial Data Science Graduate Certificate focuses on location-based data studies. If you’re a professional looking to enhance your geospatial analysis skills, this is the certificate program for you! 
+Temple’s 12-credit, Geospatial Data Science Graduate Certificate focuses on the intersection of data science and GIS.  location-based data studies. If you’re a professional looking to enhance your geospatial analysis skills, this is the certificate program for you! 
 
-Coursework focuses on geographic analysis and solutions that help advance science and society and solve location-based problems. You’ll study big data handling, data mining, geospatial analytics and machine learning as well as core data science competencies and industry-standard tools.
+Coursework focuses on geographic analysis and solutions that help advance science and society and solve location-based problems. You’ll study big data handling, data mining, geospatial analytics, geospatial intelligence and machine learning as well as core data science competencies and industry-standard tools.
+
 Temple’s graduate certificate is also a great stepping stone to our Professional Science Master’s in Geospatial Data Science.
+
  
 _*Source: [https://study.com/articles/spatial_data_scientist_job_description_salary.html](https://study.com/articles/spatial_data_scientist_job_description_salary.html)_
