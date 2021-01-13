@@ -26,7 +26,7 @@ And since both of Temple’s graduate-level Geospatial Data Science programs are
 So, what are you waiting for? Fill out the short form on this page to get started!
 
 ### Professional Science Master’s in Geospatial Data Science
-One of the first U.S. programs of its kind, Temple’s Professional Science Master’s Degree in Geospatial Data Science is a 30-credit program combining all the skills from a big data master’s and, a programming degree with aand a critical social science perspective.an urban planning degree. in a This growing field is rooted in computer science, mathematics, geospatial analytics, geospatial intelligence and statistics. The data science fundamentals and emerging trends you’ll study will empower you to work across myriad disciplines and industries like:
+One of the first U.S. programs of its kind, Temple’s Professional Science Master’s Degree in Geospatial Data Science is a 30-credit program combining all the skills from a big data master’s and, a programming degree with critical social science perspective. This growing field is rooted in computer science, mathematics, geospatial analytics, geospatial intelligence and statistics. The data science fundamentals and emerging trends you’ll study will empower you to work across myriad disciplines and industries like:
 
 + climate adaptation,
 
@@ -41,7 +41,7 @@ One of the first U.S. programs of its kind, Temple’s Professional Science Mast
 Graduates are ready to launch or advance careers as data scientists or geographic information systems professionals in either the private or public sector.
 
 ### Geospatial Data Science Graduate Certificate
-Temple’s 12-credit, Geospatial Data Science Graduate Certificate focuses on the intersection of data science and GIS.  location-based data studies. If you’re a professional looking to enhance your geospatial analysis skills, this is the certificate program for you! 
+Temple’s 12-credit, Geospatial Data Science Graduate Certificate focuses on the intersection of data science and GIS. If you’re a professional looking to enhance your geospatial analysis skills, this is the certificate program for you! 
 
 Coursework focuses on geographic analysis and solutions that help advance science and society and solve location-based problems. You’ll study big data handling, data mining, geospatial analytics, geospatial intelligence and machine learning as well as core data science competencies and industry-standard tools.
 
