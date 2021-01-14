@@ -26,7 +26,7 @@ And since both of Temple’s graduate-level Geospatial Data Science programs are
 So, what are you waiting for? Fill out the short form on this page to get started!
 
 ### Professional Science Master’s in Geospatial Data Science
-One of the first U.S. programs of its kind, Temple’s Professional Science Master’s Degree in Geospatial Data Science is a 30-credit program combining all the skills from a big data master’s and, a programming degree with critical social science perspective. This growing field is rooted in computer science, mathematics, geospatial analytics, geospatial intelligence and statistics. The data science fundamentals and emerging trends you’ll study will empower you to work across myriad disciplines and industries like:
+One of the first U.S. programs of its kind, Temple’s Professional Science Master’s Degree in Geospatial Data Science is a 30-credit program combining all the skills from a big data master’s and a programming degree with a critical social science perspective. This growing field is rooted in computer science, mathematics, geospatial analytics, geospatial intelligence and statistics. The data science fundamentals and emerging trends you’ll study will empower you to work across myriad disciplines and industries like:
 
 + climate adaptation,
 
