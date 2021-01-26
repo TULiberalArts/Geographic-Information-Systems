@@ -20,7 +20,7 @@ Our Professional Science Master's degree in Geographic Information Systems (PSM 
 
 We prepare students for the demands of the job market, integrating advanced technical training with business ethics and professional development. Core coursework includes spatial database design, application development, technical cartography, advanced statistics and ethics and professional practice, culminating in a hands-on capstone experience. The program trains competitive, skilled GIS analysts and prepares students to sit for the GISP certification exam. We are affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field to ensure that our program is teaching the skills that employers are seeking.
 
-Learn More About the [Professional Science Master’s in Geographic Information Systems](https://www.temple.edu/academics/degree-programs/geographic-information-systems-psm-la-gis-psm/cla-geographic-information-systems-psm-admissions)
+Learn More about the [Professional Science Master’s in Geographic Information Systems](https://www.temple.edu/academics/degree-programs/geographic-information-systems-psm-la-gis-psm/cla-geographic-information-systems-psm-admissions)
 
 ## Graduate Certificate in Geographic Information Systems (GIS)
 Our 12-credit graduate certificate in GIS is open to all students who have completed an undergraduate degree—including current Temple University graduate students and those not currently enrolled in a graduate program. The program has a range of GIS electives to allow graduate certificate students to tailor their coursework to their professional or academic interests. Contact [psmgis@temple.edu](mailto:psmgis.temple.edu) to get started on your certificate!
@@ -32,12 +32,12 @@ Professional Science Master’s in Geospatial Data Science students will learn t
 
 Full-time students can complete the Professional Science Master’s in Geospatial Data Science in as little as one-year, returning quickly to the workforce. The program curriculum is informed by an advisory board of industry professionals and incorporates real-world experiences through project-based learning and an internship capstone requirement. 
 
-- Please email [psmgis@temple.edu](mailto:psmgis@temple.edu) to inquire about applications and for further details. 
+- Learn More about the [Professional Science Master’s in Geospatial Data Science](https://www.temple.edu/academics/degree-programs/geospatial-data-science-psm-la-gsds-psm) 
 
 ## Graduate Certificate in Geospatial Data Science
 We offer a graduate certificate for students who already have a BA and want to pursue additional coursework in Geospatial Data Science. Our courses introduce students to a variety of data science tools with a focus on location-based data. The certificate complements our Professional Science Master’s in Geospatial Data Science and serves as a gateway into the program. It also pairs well with other graduate programs in the College of Liberal Arts and throughout Temple University.
 
-- Please email [psmgis@temple.edu](mailto:psmgis@temple.edu) to inquire about applications and for further details.
+- Learn More about the [Graduate Certificate in Geospatial Data Science](https://www.temple.edu/academics/degree-programs/geospatial-data-science-certificate-graduate-la-gsds-grad) 
 
 ## Admissions Process
 Please visit the [Professional Science Master’s in Geographic Information Systems Admissions page](https://www.temple.edu/academics/degree-programs/geographic-information-systems-psm-la-gis-psm/cla-geographic-information-systems-psm-admissions) or [Graduate Certificate in Geographic Information Systems Admissions page](https://www.temple.edu/academics/degree-programs/geographic-information-systems-certificate-graduate-la-gis-grad/cla-geographic-information-systems-ug-cert-admissions) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
