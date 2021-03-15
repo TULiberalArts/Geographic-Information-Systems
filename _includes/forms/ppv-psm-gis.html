@@ -7,10 +7,24 @@
           <div id="mc_embed_signup_scroll">
             <p class="fake-h2">Request Information</p>
             <P class="form-note">Sign up for an admissions representative to contact you about the program.</p>
+           
+            <!-- Changing from full name to first and last names. comment out the div that holds the form fields for full name
             <div class="mc-field-group">
             	<label for="mce-FULLNAME">Full Name </label>
             	<input type="text" value="" name="FULLNAME" id="mce-FULLNAME">
             </div>
+And then paste int the divs and form fields for Fname and Lname. it looks like mce is a prefix by default so we'll use it. -->
+            <div class="mc-field-group">
+              <label for="mce-FNAME">First Name </label>
+             <input type="text" value="" name="FNAME" id="mce-FNAME">
+             </div>
+
+             <div class="mc-field-group">
+               <label for="mce-LNAME">Last Name </label>
+               <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+             </div>
+            
+  <!-- above 2 divs and contents are what we'll copy and past into other forms we what to change to using Fname and lName. We use mailchimp defaults but if when someone set up the mailchimp embed form for this audience they may have felt the need to be creative and therefore changed the defaults. If names are not populating I would check mailchimp first -->
           	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>
     	      <input type="email" name="EMAIL" id="mce-EMAIL" title="The domain portion of the email address must be valid (the portion after the @)." pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$" required>
          
