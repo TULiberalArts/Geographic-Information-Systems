@@ -35,7 +35,7 @@ ___
 - [Professional Science Master’s in Geographic Information Systems](https://www.temple.edu/academics/degree-programs/geographic-information-systems-psm-la-gis-psm)
 - [Professional Science Master’s in Geospatial Data Science](https://www.temple.edu/academics/degree-programs/geospatial-data-science-psm-la-gsds-psm)
 - [Graduate Certificate in Geographic Information Systems](https://www.temple.edu/academics/degree-programs/geographic-information-systems-certificate-graduate-la-gis-grad)
-- [Graduate Certificate in Geospatial Data Science](https://www.temple.edu/academics/degree-programs/geospatial-data-science-certificate-graduate-la-gsds-grad
+- [Graduate Certificate in Geospatial Data Science](https://www.temple.edu/academics/degree-programs/geospatial-data-science-certificate-graduate-la-gsds-grad)
 - [4+1 BA/BS and Professional Science Master’s in Geographic Information Systems](/geographic-information-systems/undergraduate#accelerated-degree-41)
 - [4+1 BA/BS and MA in Geography and Urban Studies](/geographic-information-systems/undergraduate#accelerated-degree-41)
 
